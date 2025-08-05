@@ -15,8 +15,6 @@ Ein kleines Python-Tool zur transparenten Systemüberwachung eines entfernten Ra
 
 ## 📸 Vorschau
 
-*(Hier kannst du später Screenshots einfügen)*
-
 ```bash
 🌡T: 54,3°C | 🧠C: 21.3% | 💾R: 34.87%
 ```
@@ -152,7 +150,6 @@ A lightweight Python tool that lets you monitor a remote Raspberry Pi (or Linux 
 
 ## 📸 Preview
 
-*(Add your own screenshots here later)*
 
 ```bash
 🌡T: 54.3°C | 🧠C: 21.3% | 💾R: 34.87%
